@@ -1,1 +1,2 @@
 My dummy text
+My second line of text
