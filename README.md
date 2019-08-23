@@ -12,7 +12,7 @@ The purpose is ...
 
 ## How to Contribute
 
-More text ...
+Please fork this branch and issue pull request.
 
 ## Deployment
 
