@@ -15,3 +15,7 @@ The purpose is ...
 More text ...
 
 ## Deployment
+
+## Copyright
+
+2019
