@@ -18,4 +18,6 @@ Please fork this branch and issue pull request.
 
 ## Copyright
 
+All rights reserved.
+
 2019
